@@ -96,9 +96,13 @@ Our hackathon journey began on our campus, where a group of computer science ent
 ## References
 
 https://oceancolor.gsfc.nasa.gov/gallery/
+
 https://science.nasa.gov/earth-science/focus-areas/climate-variability-and-change/ocean-physics/oceanography/
+
 https://science.nasa.gov/earth-science/focus-areas/climate-variability-and-change/ocean-physics/oceanography/
+
 https://neal.fun/deep-sea/
+
 https://oceanservice.noaa.gov/facts/
 
 
