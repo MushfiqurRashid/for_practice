@@ -31,3 +31,50 @@ The website follows a straightforward architecture: it's a user-centric platform
 
 
 ![Screenshot 2023-10-05 022540](https://github.com/MushfiqurRashid/for_practice/assets/68941755/a88f7510-d99a-4a5e-84f2-faf3eebdc245)
+
+
+## Features and Solutions 
+
+1. Interactive 3D Visualizations: Explore different ocean layers and marine life interactively.
+
+2. Game Element: Gamified learning to reinforce understanding of ocean contributions.
+
+3. Real-time Data: Live Observation page fetches data from NASA's EOSDIS for current ocean imagery.
+
+4. NASA Resources: Utilizes NASA's resources for imagery and data, ensuring accuracy and reliability.
+
+5. User-friendly Design: Intuitive interface for easy navigation and engagement.
+
+
+## Solutions
+
+1.Education: Simplifies complex concepts to make ocean science accessible to all users.
+
+2. Engagement: 3D visualizations, interactive games, and multimedia content keep users engaged and interested.
+
+3. Real-time Updates: Live Observation provides up-to-the-minute data, enhancing user experience.
+
+4. Credibility: NASA resources ensure the accuracy and reliability of data and imagery.
+
+5. Ease of Use: User-friendly design and intuitive navigation make the website accessible to a wide audience.
+
+
+
+## Tech Stack 
+
+**Web Application:**  HTML, CSS, JS, Mongobd 
+
+
+## Resources of NASA and others, and NASA APIs:
+
+1.NASA Ocean Color gallery: https://oceancolor.gsfc.nasa.gov/gallery/ 
+
+2.NASA Oceanography: https://science.nasa.gov/earth-science/focus-areas/climate-variability-and-change/ocean-physics/oceanography/
+
+3.Protecting Canada’s oceans: https://www.dfo-mpo.gc.ca/oceans/conservation/plan/MCT-OCM-eng.html
+
+4.Ocean Facts: https://oceanservice.noaa.gov/facts/ 
+
+5.NASA API: Earth Observing System Data and Information System (EOSDIS) 
+
+6.NASA API: NASA Image and Video Library
