@@ -80,3 +80,30 @@ The website follows a straightforward architecture: it's a user-centric platform
 5.NASA API: Earth Observing System Data and Information System (EOSDIS) 
 
 6.NASA API: NASA Image and Video Library
+
+![4](https://github.com/MushfiqurRashid/for_practice/assets/68941755/9aff91ec-004c-44c1-8fcf-c9bd08f6562d)
+![5](https://github.com/MushfiqurRashid/for_practice/assets/68941755/fd3cae7e-343f-41b1-b7a1-eff62616e89c)
+![7](https://github.com/MushfiqurRashid/for_practice/assets/68941755/6ec7c318-601d-42d8-89fe-9de36d4a752e)
+![6](https://github.com/MushfiqurRashid/for_practice/assets/68941755/139f2a8e-26ee-4a51-adf2-a3c95130c4bb)
+
+## Hackathon Journey
+
+Our hackathon journey began on our campus, where a group of computer science enthusiasts with diverse tech skills converged with a shared passion for NASA's Space App Challenges. As first-time hackathon participants, We started an exciting journey to solve difficult problems and make our planet a nicer, safer home for everyone. Armed with our combined expertise in CSE, we eagerly embraced the challenge and dove into a world of innovation, coding, and collaboration. With NASA's mission as our inspiration, we navigated sleepless nights, brainstorming sessions, and intense coding marathons. Throughout this journey, we discovered the power of teamwork, resilience, and the incredible potential of technology to solve real-world issues. In the end, our hackathon journey wasn't just about winning; it was about the exhilarating experience of pushing our limits, forging lifelong friendships, and contributing to a brighter future for Earth.
+
+## References
+
+https://oceancolor.gsfc.nasa.gov/gallery/
+https://science.nasa.gov/earth-science/focus-areas/climate-variability-and-change/ocean-physics/oceanography/
+https://science.nasa.gov/earth-science/focus-areas/climate-variability-and-change/ocean-physics/oceanography/
+https://neal.fun/deep-sea/
+https://oceanservice.noaa.gov/facts/
+
+
+
+## Snaps of the platform
+
+![8](https://github.com/MushfiqurRashid/for_practice/assets/68941755/fb929f8c-cb7e-4948-ad66-1b518dfc2703)
+![9](https://github.com/MushfiqurRashid/for_practice/assets/68941755/a9501555-0f14-4ad5-ac21-0c462b74f692)
+![10](https://github.com/MushfiqurRashid/for_practice/assets/68941755/1166e47c-bc17-49a3-9e0b-8483e6aa62c9)
+![11](https://github.com/MushfiqurRashid/for_practice/assets/68941755/1bf2be6d-c6dc-47ab-be02-bb44a7b7d9e3)
+
