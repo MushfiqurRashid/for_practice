@@ -12,7 +12,7 @@ Git link
 ## 🔗Live Web Link 
 Git link
 
-# High Level Project Summary  
+# Detailed Project Description  
 
 Welcome to our comprehensive and captivating website dedicated to unraveling the mysteries of the ocean and its vital contributions to our environment. Our project is not only an educational endeavor but also a tribute to the ocean's profound importance in our lives.
 
