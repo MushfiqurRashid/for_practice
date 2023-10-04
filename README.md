@@ -31,6 +31,8 @@ The website follows a straightforward architecture: it's a user-centric platform
 
 
 ![Screenshot 2023-10-05 022540](https://github.com/MushfiqurRashid/for_practice/assets/68941755/a88f7510-d99a-4a5e-84f2-faf3eebdc245)
+![2](https://github.com/MushfiqurRashid/for_practice/assets/68941755/4414a04f-91a9-4042-b97a-340468f67373)
+![3](https://github.com/MushfiqurRashid/for_practice/assets/68941755/f45d8042-f0a8-4b80-bb14-752e24461362)
 
 
 ## Features 
