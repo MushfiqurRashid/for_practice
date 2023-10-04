@@ -33,7 +33,7 @@ The website follows a straightforward architecture: it's a user-centric platform
 ![Screenshot 2023-10-05 022540](https://github.com/MushfiqurRashid/for_practice/assets/68941755/a88f7510-d99a-4a5e-84f2-faf3eebdc245)
 
 
-## Features and Solutions 
+## Features 
 
 1. Interactive 3D Visualizations: Explore different ocean layers and marine life interactively.
 
