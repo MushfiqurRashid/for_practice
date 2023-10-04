@@ -52,6 +52,7 @@ The website follows a straightforward architecture: it's a user-centric platform
 
 
 ## Solutions
+
 1.Education: Simplifies complex concepts to make ocean science accessible to all users.
 
 2. Engagement: 3D visualizations, interactive games, and multimedia content keep users engaged and interested.
