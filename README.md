@@ -6,7 +6,10 @@ This immersive 3D interactive learning website is dedicated to unveiling the oce
 ## 🔗Link to final project
 Git link
 
-## 🔗Link to final project
+## 🔗Link to Project “Demo”
+Git link
+
+## 🔗Live Web Link 
 Git link
 
 # High Level Project Summary  
